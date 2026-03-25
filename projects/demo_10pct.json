@@ -1,6 +1,6 @@
 {
-  "name": "Demo - 10% Progress",
-  "description": "Project at idea brainstorm stage.",
+  "name": "Project 1",
+  "description": "Project just started.",
   "steps": [
     { "label": "Idea Brainstorm",   "status": "current" },
     { "label": "Experiment Design", "status": "pending" },
