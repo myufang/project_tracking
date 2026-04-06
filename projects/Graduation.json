@@ -16,7 +16,7 @@
   "timeline": [
     { "label": "Project 1", "date": "2026-05-01" },
     { "label": "Project 2", "date": "2026-07-01" },
-    { "label": "Project 3",  "date": "2025-09-01" },
+    { "label": "Project 3",  "date": "2026-09-01" },
     { "label": "Proposal Submission", "date": "2026-09-30" },
     { "label": "Apply for graduation","date": "2026-10-15" },
     { "label": "Defense", "date": "2026-12-20" }
