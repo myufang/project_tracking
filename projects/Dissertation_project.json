@@ -1,0 +1,18 @@
+{
+  "name": "Dissertation Project",
+  "description": "Dissertation project for completing my PhD.",
+  "steps": [
+    { "label": "Idea Brainstorm",   "status": "done" },
+    { "label": "Experiment Design", "status": "done" },
+    { "label": "Running Exp",       "status": "done" },
+    { "label": "Results",           "status": "current" },
+    { "label": "Paper Drafting",    "status": "pending" }
+  ],
+  "venue": "Paper Submission",
+  "venueUrl": "https://www.university.edu/graduation",
+  "timeline": [
+    { "label": "Abstract Due",   "date": "2026-03-01" },
+    { "label": "Draft Paper Due", "date": "2026-04-15" },
+    { "label": "Full Paper Due",      "date": "2026-04-30" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PROJECT graduation",
+  "description": "Project timeline for completing my PhD graduation.",
+  "steps": [
+    { "label": "Project 1", "status": "done" },
+    { "label": "Project 2", "status": "pending" },
+    { "label": "Project 3", "status": "pending" },
+    { "label": "Proposal drafting", "status": "pending" },
+    { "label": "Proposal presentation", "status": "pending" },
+    { "label": "Apply for graduation", "status": "pending" },
+    { "label": "Defense drafting", "status": "pending" },
+    { "label": "Proposal presentation", "status": "pending" }
+  ],
+  "venue": "Graduation",
+  "venueUrl": "https://www.university.edu/graduation",
+  "timeline": [
+    { "label": "Project 1", "date": "2026-05-01" },
+    { "label": "Project 2", "date": "2026-07-01" },
+    { "label": "Project 3",  "date": "2025-09-01" },
+    { "label": "Proposal Submission", "date": "2026-09-30" },
+    { "label": "Apply for graduation","date": "2026-10-15" },
+    { "label": "Defense", "date": "2026-12-20" }
+  ]
+}

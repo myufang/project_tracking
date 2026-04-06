@@ -1,0 +1,20 @@
+{
+  "name": "Dissertation Project",
+  "description": "Second project for completing my PhD",
+  "steps": [
+    { "label": "Literature Review",   "status": "current" },
+    { "label": "Experiment Design", "status": "pending" },
+    { "label": "Running Exp",       "status": "pending" },
+    { "label": "Results",           "status": "pending" },
+    { "label": "Paper Drafting",    "status": "pending"}
+  ],
+  "venue": "Graduation",
+  "venueUrl": "https://www.university.edu/graduation",
+  "timeline": [
+    { "label": "Abstract Due",   "date": "2026-05-10" },
+    { "label": "Full Paper Due", "date": "2026-05-17" },
+    { "label": "Reviewing",      "date": "2026-06-01" },
+    { "label": "Review Release", "date": "2026-07-15" },
+    { "label": "Decision",       "date": "2026-08-01" }
+  ]
+}
