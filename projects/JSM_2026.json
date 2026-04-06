@@ -6,7 +6,7 @@
     { "label": "Abstract Editing", "status": "current" },
     { "label": "Registration & Housing",       "status": "pending" },
     { "label": "Draft Submission",           "status": "pending" },
-    { "label": "Presentation Slides",    "status": "pending" }
+    { "label": "Presentation Slides",    "status": "pending" },
     { "label": "Pre preparation",    "status": "pending" }
   ],
   "venue": "JSM 2026",
