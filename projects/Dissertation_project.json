@@ -5,8 +5,8 @@
     { "label": "Idea Brainstorm",   "status": "done" },
     { "label": "Experiment Design", "status": "done" },
     { "label": "Running Exp",       "status": "done" },
-    { "label": "Results",           "status": "current" },
-    { "label": "Paper Drafting",    "status": "pending" }
+    { "label": "Results",           "status": "done" },
+    { "label": "Paper Drafting",    "status": "done" }
   ],
   "venue": "Paper Submission",
   "venueUrl": "https://www.university.edu/graduation.com",
