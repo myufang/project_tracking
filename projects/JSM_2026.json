@@ -3,11 +3,11 @@
   "description": "Talk preparation for JSM 2026",
   "steps": [
     { "label": "Abstract Due",   "status": "done" },
-    { "label": "Abstract Editing", "status": "current" },
-    { "label": "Registration & Housing",       "status": "pending" },
-    { "label": "Draft Submission",           "status": "pending" },
-    { "label": "Presentation Slides",    "status": "pending" },
-    { "label": "Pre preparation",    "status": "pending" }
+    { "label": "Abstract Editing", "status": "done" },
+    { "label": "Registration & Housing", "status": "pending" },
+    { "label": "Draft Submission", "status": "pending" },
+    { "label": "Presentation Slides", "status": "pending" },
+    { "label": "Pre preparation", "status": "pending" }
   ],
   "venue": "JSM 2026",
   "venueUrl": "https://ww2.amstat.org/meetings/jsm/2026/",
