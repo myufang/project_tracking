@@ -6,7 +6,8 @@
     { "label": "Experiment Design", "status": "done" },
     { "label": "Running Exp",       "status": "done" },
     { "label": "Results",           "status": "done" },
-    { "label": "Paper Drafting",    "status": "done" }
+    { "label": "Paper Drafting",    "status": "done" },
+    { "label": "Paper under review",    "status": "pending" }
   ],
   "venue": "Paper Submission",
   "venueUrl": "https://www.university.edu/graduation.com",
