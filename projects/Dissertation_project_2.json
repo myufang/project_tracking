@@ -3,8 +3,8 @@
   "description": "Second project for completing my PhD",
   "steps": [
     { "label": "Literature Review",   "status": "current" },
-    { "label": "Experiment Design", "status": "pending" },
-    { "label": "Running Exp",       "status": "pending" },
+    { "label": "Experiment Design", "status": "current" },
+    { "label": "Running Exp",       "status": "current" },
     { "label": "Results",           "status": "pending" },
     { "label": "Paper Drafting",    "status": "pending"}
   ],
